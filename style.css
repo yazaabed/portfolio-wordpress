@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/*
+Theme Name: Portfolio
+Theme URI: http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial
+Description: A theme built to upload your portfolio and customize it with wardpress themes.
+Author: Yazan Aabed
+Author URI: https://www.yaabed.com/
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+Write custom css here inside this file
+*/
+
+@import url('bootstrap/css/bootstrap.min.css');
